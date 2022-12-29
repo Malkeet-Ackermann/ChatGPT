@@ -1,0 +1,35 @@
+{
+  "version": "v0.7.3",
+  "notes": "chore:\n- optimize slash command style\n- optimize tray menu icon and button icons\n- global shortcuts to the chatgpt app (mac: `Command + Shift + O`, windows: `Ctrl + Shift + O`)",
+  "pub_date": "2022-12-29T13:21:33.277Z",
+  "platforms": {
+    "win64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc1dhb2hpQzl0MDBUZzlNcTk3cUdXR1ZyWGlwSmtRNDgra3U2eFpvdzBJbyszalRRMTBsdDBuQWRBTHYrbG4yaURyTFBrTlEvSXJpV29qbzBWL0lRL0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcyMzE5OTUwCWZpbGU6Q2hhdEdQVF8wLjcuM194NjRfZW4tVVMubXNpLnppcAo1dHptMEVHU3VhazRhTWZzdHA5cEwvdmRCa3Q3a00zODR1UHVJQ2JyeE15YnZacnBYL1VqVkQzYW9Ka1c4cjFObVhKMGZpaCtjOXFxTXlqTTBxWHdCQT09Cg==",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v0.7.3/ChatGPT_0.7.3_x64_en-US.msi.zip"
+    },
+    "linux": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc1Q2Rmxvam9veWVuVUFCeWs3UmpLWllmZk9kaStscFlmN3o3NjhnZCt5TWdiYkZucllZK3Npd1creFl5QkxkSE1iWHVaRy9MTWJscnBlKzFleFFUOHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcyMzE5OTQ5CWZpbGU6Y2hhdC1ncHRfMC43LjNfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CjM0WlAxU3RHV3hUUHRzWmRwbTNqQTJZQmZsVU5kNVgrNTRIdVQzdUtaQW1QMHlhN1BwK0Z2QXlFK2xVSGhpVTYrVkZ6c2swbUtCQ1FVZTRvQUs3T0FRPT0K",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v0.7.3/chat-gpt_0.7.3_amd64.AppImage.tar.gz"
+    },
+    "darwin": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc1RyamFxSTRUQ1JCWG9jc0FuMVVndzZVMUsyNXpqbzVtOW04S3JML2poT2xlVjN0MjE1SGloeERmRTJwaktCY3ZHZWFKREt6RXhwaDZKYzFiaXdKRXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcyMzIwMDUzCWZpbGU6Q2hhdEdQVC5hcHAudGFyLmd6CmRYLzRXSmtKYXA5VVQ2ay8zZDkxM25DYk5EOEtyQmJhZlc3WUVyYkFmbERQcWtJaWU2b3c5ekl0T3NSSWp6c2w0SDVVOHNPUWxhS0kxUjBEV1k5REJBPT0K",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v0.7.3/ChatGPT.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc1RyamFxSTRUQ1JCWG9jc0FuMVVndzZVMUsyNXpqbzVtOW04S3JML2poT2xlVjN0MjE1SGloeERmRTJwaktCY3ZHZWFKREt6RXhwaDZKYzFiaXdKRXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcyMzIwMDUzCWZpbGU6Q2hhdEdQVC5hcHAudGFyLmd6CmRYLzRXSmtKYXA5VVQ2ay8zZDkxM25DYk5EOEtyQmJhZlc3WUVyYkFmbERQcWtJaWU2b3c5ekl0T3NSSWp6c2w0SDVVOHNPUWxhS0kxUjBEV1k5REJBPT0K",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v0.7.3/ChatGPT.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc1RyamFxSTRUQ1JCWG9jc0FuMVVndzZVMUsyNXpqbzVtOW04S3JML2poT2xlVjN0MjE1SGloeERmRTJwaktCY3ZHZWFKREt6RXhwaDZKYzFiaXdKRXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcyMzIwMDUzCWZpbGU6Q2hhdEdQVC5hcHAudGFyLmd6CmRYLzRXSmtKYXA5VVQ2ay8zZDkxM25DYk5EOEtyQmJhZlc3WUVyYkFmbERQcWtJaWU2b3c5ekl0T3NSSWp6c2w0SDVVOHNPUWxhS0kxUjBEV1k5REJBPT0K",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v0.7.3/ChatGPT.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc1Q2Rmxvam9veWVuVUFCeWs3UmpLWllmZk9kaStscFlmN3o3NjhnZCt5TWdiYkZucllZK3Npd1creFl5QkxkSE1iWHVaRy9MTWJscnBlKzFleFFUOHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcyMzE5OTQ5CWZpbGU6Y2hhdC1ncHRfMC43LjNfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CjM0WlAxU3RHV3hUUHRzWmRwbTNqQTJZQmZsVU5kNVgrNTRIdVQzdUtaQW1QMHlhN1BwK0Z2QXlFK2xVSGhpVTYrVkZ6c2swbUtCQ1FVZTRvQUs3T0FRPT0K",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v0.7.3/chat-gpt_0.7.3_amd64.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc1dhb2hpQzl0MDBUZzlNcTk3cUdXR1ZyWGlwSmtRNDgra3U2eFpvdzBJbyszalRRMTBsdDBuQWRBTHYrbG4yaURyTFBrTlEvSXJpV29qbzBWL0lRL0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcyMzE5OTUwCWZpbGU6Q2hhdEdQVF8wLjcuM194NjRfZW4tVVMubXNpLnppcAo1dHptMEVHU3VhazRhTWZzdHA5cEwvdmRCa3Q3a00zODR1UHVJQ2JyeE15YnZacnBYL1VqVkQzYW9Ka1c4cjFObVhKMGZpaCtjOXFxTXlqTTBxWHdCQT09Cg==",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v0.7.3/ChatGPT_0.7.3_x64_en-US.msi.zip"
+    }
+  }
+}
